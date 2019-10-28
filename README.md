@@ -22,3 +22,6 @@ Evidentemente no me propongo objetivos ni calendario.
 Solo trabajar todos (o casi Todos) los días un buen rato. Veremos hasta dónde pues, alcanzo.
 
 Además de mis propias (mínimas) cosas, utilizo cosas en web (uno de mis favoritos es Juan Gabriel de la UIB), tambien otros cursos de la UIB, la UDEMI,Packt, y en general IoK (internet del Conocimiento, como IoT puede ser internet de las cosas)
+
+A lo mojó me lo tomo en serio, who knows?
+
